@@ -1,0 +1,15 @@
+{
+  "name": "chakram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "user-test.js",
+  "dependencies": {
+    "chakram": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha tests/ --timeout 90000  --exit"
+  },
+  "author": "",
+  "license": "ISC"
+}
